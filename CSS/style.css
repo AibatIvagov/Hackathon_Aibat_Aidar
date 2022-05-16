@@ -1,0 +1,73 @@
+statbody {
+  height: 100%;
+  background-color: grey;
+}
+
+video {
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  position: fixed;
+  height: auto;
+  bottom: 0;
+  left: 0;
+  z-index: -10;
+  background-position: auto;
+}
+
+#footer {
+  width: 100%;
+  position: absolute;
+  justify-content: space-between;
+  margin-top: 60%;
+}
+.footer__text {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  padding: 1rem 1rem;
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+#prevBtn {
+  color: white;
+  background-color: black;
+}
+#nextBtn {
+  color: white;
+  background-color: black;
+}
+
+ul.pagination {
+  margin-top: 20px;
+  display: flex;
+  padding-left: 50%;
+  align-items: center;
+  list-style: none;
+}
+
+.page-item {
+  background-color: black;
+}
+
+.accordion-button {
+  background-color: black !important;
+  color: white !important;
+}
+
+.accordion-body {
+  background-color: black !important;
+  color: white !important;
+}
+
+#btnAdd {
+  border: white 3px solid;
+  color: white !important;
+  border-radius: 10 px;
+  margin-top: 20px;
+}

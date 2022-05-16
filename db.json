@@ -1,0 +1,67 @@
+{
+  "drinks": [
+    {
+      "drinkName": "Капучино",
+      "drinkDesc": "Капучи́но — кофейный напиток итальянской кухни на основе эспрессо с добавлением в него подогретого вспененного молока.",
+      "drinkImage": "https://www.nestleprofessional.ru/data/uploads/article_block/image/999/5f71edfe53cb4.jpg",
+      "drinkPrice": "200 сом",
+      "id": 1
+    },
+    {
+      "drinkName": "Эспрессо",
+      "drinkDesc": "Эспре́ссо — метод приготовления кофе путём прохождения горячей воды под давлением через фильтр с молотым кофе.",
+      "drinkImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Espresso_and_napolitains.jpg/1200px-Espresso_and_napolitains.jpg",
+      "drinkPrice": "140 сом",
+      "id": 3
+    },
+    {
+      "drinkName": "Черный чай",
+      "drinkDesc": "Чёрный чай — вид чая, подвергающийся полной ферментации в течение от двух недель до месяца. Традиционно наиболее популярный вид чая в Европе, включая Россию.",
+      "drinkImage": "https://101tea.ru/upload/ammina.optimizer/jpg-webp/q80/upload/medialibrary/05a/05ac32d37845b6aa7166e80a5f75a429.webp",
+      "drinkPrice": "170 сом",
+      "id": 4
+    },
+    {
+      "drinkName": "Зеленый чай",
+      "drinkDesc": "Зелёный чай — чай, подвергнутый минимальной ферментации. И зелёный, и чёрный чай получают из листьев одного и того же чайного куста, однако различными способами.",
+      "drinkImage": "https://xcook.info/wp-content/uploads/sites/default/files/resize/upload_images/2017-09/Zelenyj-chaj-650x474.jpg",
+      "drinkPrice": "170 сом",
+      "id": 5
+    },
+    {
+      "drinkName": "Corona безалкогольный",
+      "drinkDesc": "Corona Extra — светлый лагер, производства мексиканской компании Grupo Modelo. Долгое время Corona был крупнейшим из немногих независимых всемирных пивных брендов.",
+      "drinkImage": "https://frullato.ru/wp-content/uploads/2018/04/Corona-650x650.jpg",
+      "drinkPrice": "140 сом",
+      "id": 6
+    },
+    {
+      "drinkName": "Лонг-Айленд",
+      "drinkDesc": "Ло́нг-А́йленд айс ти — популярный коктейль на основе водки, джина, текилы и рома. Кроме того, в состав коктейля обычно входит трипл сек, кола и так далее. «Лонг-Айленд» — один из самых крепких коктейлей. Классифицируется как лонг дринк.",
+      "drinkImage": "https://kokteyly.ru/wp-content/uploads/2017/12/Long-Island-Ice-tea-Cocktail.jpg",
+      "drinkPrice": "300 сом",
+      "id": 7
+    },
+    {
+      "drinkName": "Jägermeister",
+      "drinkDesc": "Jägermeister — немецкий крепкий ликёр, настоянный на травах. Относится к категории биттеров. ",
+      "drinkImage": "https://alcofan.com/wp-content/uploads/2013/09/ledyanye-shoty-s-likerom-jagermeister.jpg",
+      "drinkPrice": "300 сом",
+      "id": 8
+    },
+    {
+      "drinkName": "Секс на пляже ",
+      "drinkDesc": "«Секс на пля́же» — алкогольный коктейль, содержащий водку, персиковый шнапс, апельсиновый и клюквенный сок.",
+      "drinkImage": "https://www.tvcook.ru/uploads/images/00/01/69/2012/06/02/9579da.jpg",
+      "drinkPrice": "290 сом",
+      "id": 9
+    },
+    {
+      "drinkName": "Йогурт",
+      "drinkDesc": "Народное, дешевое, улетное пойло. Дает эффект, как проходит 5 минут после употребления. Продается во всех комках региона страны. Производство Кыргызстан",
+      "drinkImage": "https://frullato.ru/wp-content/uploads/2020/10/stop.png",
+      "drinkPrice": "Запись в тетрадку",
+      "id": 10
+    }
+  ]
+}
